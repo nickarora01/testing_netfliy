@@ -1,0 +1,2242 @@
+[
+  {
+    "city": "Angra do Heroismo",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "38.69525909",
+    "longitude": "-27.24913025"
+  },
+  {
+    "city": "Calheta de Sao Jorge",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "38.59767151",
+    "longitude": "-27.91459084"
+  },
+  {
+    "city": "Corvo",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "39.69770813",
+    "longitude": "-31.10549927"
+  },
+  {
+    "city": "Horta",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "38.57096863",
+    "longitude": "-28.67919922"
+  },
+  {
+    "city": "Lagoa",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "37.74821091",
+    "longitude": "-25.54027939"
+  },
+  {
+    "city": "Lajes Das Flores",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "39.41619110",
+    "longitude": "-31.21725082"
+  },
+  {
+    "city": "Lajes do Pico",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "38.42797089",
+    "longitude": "-28.17402077"
+  },
+  {
+    "city": "Madalena",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "38.53559113",
+    "longitude": "-28.52342987"
+  },
+  {
+    "city": "Nordeste",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "37.82720947",
+    "longitude": "-25.22863007"
+  },
+  {
+    "city": "Ponta Delgada",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "37.74229813",
+    "longitude": "-25.67093086"
+  },
+  {
+    "city": "Povoacao",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "37.76470947",
+    "longitude": "-25.24486923"
+  },
+  {
+    "city": "Praia da Vitoria",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "38.74063873",
+    "longitude": "-27.13097954"
+  },
+  {
+    "city": "Ribeira Grande",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "37.80458832",
+    "longitude": "-25.46834946"
+  },
+  {
+    "city": "Santa Cruz da Graciosa",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "39.04946136",
+    "longitude": "-28.00432014"
+  },
+  {
+    "city": "Santa Cruz Das Flores",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "39.46984100",
+    "longitude": "-31.18514061"
+  },
+  {
+    "city": "Sao Roque do Pico",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "38.48817062",
+    "longitude": "-28.29261017"
+  },
+  {
+    "city": "Velas",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "38.67995071",
+    "longitude": "-28.15155029"
+  },
+  {
+    "city": "Vila do Porto",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "36.97454071",
+    "longitude": "-25.09967041"
+  },
+  {
+    "city": "Vila Franca do Campo",
+    "region": "Azores",
+    "country": "portugal",
+    "latitude": "37.73661041",
+    "longitude": "-25.42914009"
+  },
+  {
+    "city": "Aguiar da Beira",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.78319168",
+    "longitude": "-7.52690983"
+  },
+  {
+    "city": "Almeida",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.73070145",
+    "longitude": "-6.90594006"
+  },
+  {
+    "city": "Celorico da Beira",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.61785126",
+    "longitude": "-7.38625002"
+  },
+  {
+    "city": "Figueira de Castelo Rodrigo",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.87356186",
+    "longitude": "-6.96842003"
+  },
+  {
+    "city": "Fornos de Algodres",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.64942169",
+    "longitude": "-7.49727011"
+  },
+  {
+    "city": "Guarda",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.52949905",
+    "longitude": "-7.24123001"
+  },
+  {
+    "city": "Manteigas",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.40631104",
+    "longitude": "-7.50074005"
+  },
+  {
+    "city": "Meda",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.93238068",
+    "longitude": "-7.26494980"
+  },
+  {
+    "city": "Municipio de Gouveia",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.50828934",
+    "longitude": "-7.59049988"
+  },
+  {
+    "city": "Pinhel",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.74242020",
+    "longitude": "-7.12658978"
+  },
+  {
+    "city": "Sabugal",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.36991882",
+    "longitude": "-7.09305000"
+  },
+  {
+    "city": "Seia",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.42203140",
+    "longitude": "-7.70244980"
+  },
+  {
+    "city": "Trancoso",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "40.79180908",
+    "longitude": "-7.32539988"
+  },
+  {
+    "city": "Vila Nova de Foz Coa",
+    "region": "Distrito da Guarda",
+    "country": "portugal",
+    "latitude": "41.06370163",
+    "longitude": "-7.20388985"
+  },
+  {
+    "city": "Agueda",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.58052063",
+    "longitude": "-8.42541981"
+  },
+  {
+    "city": "Albergaria-A-Velha",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.68706131",
+    "longitude": "-8.50399017"
+  },
+  {
+    "city": "Anadia",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.45106125",
+    "longitude": "-8.46245956"
+  },
+  {
+    "city": "Arouca",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.92657852",
+    "longitude": "-8.27250957"
+  },
+  {
+    "city": "Aveiro",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.62398148",
+    "longitude": "-8.61627960"
+  },
+  {
+    "city": "Castelo de Paiva",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "41.03353119",
+    "longitude": "-8.29821968"
+  },
+  {
+    "city": "Espinho",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.99900818",
+    "longitude": "-8.62506008"
+  },
+  {
+    "city": "Estarreja",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.75463104",
+    "longitude": "-8.57917023"
+  },
+  {
+    "city": "Ilhavo",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.61169815",
+    "longitude": "-8.72000027"
+  },
+  {
+    "city": "Mealhada",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.36272812",
+    "longitude": "-8.44781017"
+  },
+  {
+    "city": "Murtosa",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.74301147",
+    "longitude": "-8.64023018"
+  },
+  {
+    "city": "Oliveira de Azemeis",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.85078049",
+    "longitude": "-8.46945000"
+  },
+  {
+    "city": "Oliveira do Bairro",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.50976944",
+    "longitude": "-8.56373978"
+  },
+  {
+    "city": "Ovar",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.89421844",
+    "longitude": "-8.61225986"
+  },
+  {
+    "city": "Santa Maria da Feira",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.96043015",
+    "longitude": "-8.51544952"
+  },
+  {
+    "city": "Sao Joao da Madeira",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.89772034",
+    "longitude": "-8.49283028"
+  },
+  {
+    "city": "Sever do Vouga",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.73155975",
+    "longitude": "-8.35492992"
+  },
+  {
+    "city": "Vagos",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.49943161",
+    "longitude": "-8.67829990"
+  },
+  {
+    "city": "Vale de Cambra",
+    "region": "Distrito de Aveiro",
+    "country": "portugal",
+    "latitude": "40.84500122",
+    "longitude": "-8.36021996"
+  },
+  {
+    "city": "Aljustrel",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "37.90559006",
+    "longitude": "-8.19303989"
+  },
+  {
+    "city": "Almodovar",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "37.49589920",
+    "longitude": "-8.09372044"
+  },
+  {
+    "city": "Alvito",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "38.24652863",
+    "longitude": "-8.05037975"
+  },
+  {
+    "city": "Barrancos",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "38.15459061",
+    "longitude": "-7.07114983"
+  },
+  {
+    "city": "Beja",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "37.98799896",
+    "longitude": "-7.87772989"
+  },
+  {
+    "city": "Castro Verde",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "37.71192932",
+    "longitude": "-8.02416039"
+  },
+  {
+    "city": "Cuba",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "38.21971893",
+    "longitude": "-7.92114019"
+  },
+  {
+    "city": "Ferreira do Alentejo",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "38.09917831",
+    "longitude": "-8.17136955"
+  },
+  {
+    "city": "Mertola",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "37.65917969",
+    "longitude": "-7.66434002"
+  },
+  {
+    "city": "Moura",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "38.13148117",
+    "longitude": "-7.29677010"
+  },
+  {
+    "city": "Odemira",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "37.62723923",
+    "longitude": "-8.57299995"
+  },
+  {
+    "city": "Ourique",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "37.69155884",
+    "longitude": "-8.31031036"
+  },
+  {
+    "city": "Serpa",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "37.95201111",
+    "longitude": "-7.47533989"
+  },
+  {
+    "city": "Vidigueira",
+    "region": "Distrito de Beja",
+    "country": "portugal",
+    "latitude": "38.18447876",
+    "longitude": "-7.74468994"
+  },
+  {
+    "city": "Amares",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.64717865",
+    "longitude": "-8.35558033"
+  },
+  {
+    "city": "Barcelos",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.53182983",
+    "longitude": "-8.61233044"
+  },
+  {
+    "city": "Braga",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.55801010",
+    "longitude": "-8.42308044"
+  },
+  {
+    "city": "Cabeceiras de Basto",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.52079010",
+    "longitude": "-7.97198009"
+  },
+  {
+    "city": "Celorico de Basto",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.40277863",
+    "longitude": "-8.03345966"
+  },
+  {
+    "city": "Esposende",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.54515839",
+    "longitude": "-8.75753975"
+  },
+  {
+    "city": "Fafe",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.46836853",
+    "longitude": "-8.15863037"
+  },
+  {
+    "city": "Guimaraes",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.44384003",
+    "longitude": "-8.28917980"
+  },
+  {
+    "city": "Povoa de Lanhoso",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.58824921",
+    "longitude": "-8.26447010"
+  },
+  {
+    "city": "Terras de Bouro",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.73913956",
+    "longitude": "-8.19108963"
+  },
+  {
+    "city": "Vieira do Minho",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.63557053",
+    "longitude": "-8.13243961"
+  },
+  {
+    "city": "Vila Nova de Famalicao",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.41223145",
+    "longitude": "-8.48511028"
+  },
+  {
+    "city": "Vila Verde",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.64868927",
+    "longitude": "-8.43628025"
+  },
+  {
+    "city": "Vizela",
+    "region": "Distrito de Braga",
+    "country": "portugal",
+    "latitude": "41.37528992",
+    "longitude": "-8.29310036"
+  },
+  {
+    "city": "Alfandega da Fe",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.34949875",
+    "longitude": "-6.95063019"
+  },
+  {
+    "city": "Braganca Municipality",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.75608063",
+    "longitude": "-6.75535011"
+  },
+  {
+    "city": "Carrazeda de Ansiaes",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.23424149",
+    "longitude": "-7.31128979"
+  },
+  {
+    "city": "Freixo de Espada A Cinta",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.12343979",
+    "longitude": "-6.82462978"
+  },
+  {
+    "city": "Macedo de Cavaleiros",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.55131912",
+    "longitude": "-6.93354988"
+  },
+  {
+    "city": "Miranda do Douro",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.51902008",
+    "longitude": "-6.35448980"
+  },
+  {
+    "city": "Mirandela",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.50098038",
+    "longitude": "-7.19185019"
+  },
+  {
+    "city": "Mogadouro",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.34193039",
+    "longitude": "-6.71933985"
+  },
+  {
+    "city": "Torre de Moncorvo",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.17921829",
+    "longitude": "-7.03579998"
+  },
+  {
+    "city": "Vila Flor",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.31428909",
+    "longitude": "-7.15071011"
+  },
+  {
+    "city": "Vimioso",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.57286835",
+    "longitude": "-6.52087021"
+  },
+  {
+    "city": "Vinhais",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.83103943",
+    "longitude": "-7.04060984"
+  },
+  {
+    "city": "Alfandega da Fe",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.34949875",
+    "longitude": "-6.95063019"
+  },
+  {
+    "city": "Braganca Municipality",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.75608063",
+    "longitude": "-6.75535011"
+  },
+  {
+    "city": "Carrazeda de Ansiaes",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.23424149",
+    "longitude": "-7.31128979"
+  },
+  {
+    "city": "Freixo de Espada A Cinta",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.12343979",
+    "longitude": "-6.82462978"
+  },
+  {
+    "city": "Macedo de Cavaleiros",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.55131912",
+    "longitude": "-6.93354988"
+  },
+  {
+    "city": "Miranda do Douro",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.51902008",
+    "longitude": "-6.35448980"
+  },
+  {
+    "city": "Mirandela",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.50098038",
+    "longitude": "-7.19185019"
+  },
+  {
+    "city": "Mogadouro",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.34193039",
+    "longitude": "-6.71933985"
+  },
+  {
+    "city": "Torre de Moncorvo",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.17921829",
+    "longitude": "-7.03579998"
+  },
+  {
+    "city": "Vila Flor",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.31428909",
+    "longitude": "-7.15071011"
+  },
+  {
+    "city": "Vimioso",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.57286835",
+    "longitude": "-6.52087021"
+  },
+  {
+    "city": "Vinhais",
+    "region": "Distrito de Braganca",
+    "country": "portugal",
+    "latitude": "41.83103943",
+    "longitude": "-7.04060984"
+  },
+  {
+    "city": "Belmonte",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "40.36180878",
+    "longitude": "-7.35157013"
+  },
+  {
+    "city": "Castelo Branco",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "39.88846970",
+    "longitude": "-7.51313019"
+  },
+  {
+    "city": "Concelho do Fundao",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "40.12411880",
+    "longitude": "-7.49541998"
+  },
+  {
+    "city": "Covilha",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "40.29227066",
+    "longitude": "-7.50366020"
+  },
+  {
+    "city": "Idanha-A-Nova",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "39.92956924",
+    "longitude": "-7.23689985"
+  },
+  {
+    "city": "Oleiros",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "39.94947815",
+    "longitude": "-7.88592005"
+  },
+  {
+    "city": "Penamacor",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "40.15494919",
+    "longitude": "-7.17149019"
+  },
+  {
+    "city": "Proenca-A-Nova",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "39.75699997",
+    "longitude": "-7.92595005"
+  },
+  {
+    "city": "Serta",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "39.82175064",
+    "longitude": "-8.09844971"
+  },
+  {
+    "city": "Vila de Rei",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "39.70684814",
+    "longitude": "-8.12835979"
+  },
+  {
+    "city": "Vila Velha de Rodao",
+    "region": "Distrito de Castelo Branco",
+    "country": "portugal",
+    "latitude": "39.68709183",
+    "longitude": "-7.65987015"
+  },
+  {
+    "city": "Arganil",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.23529816",
+    "longitude": "-7.98110008"
+  },
+  {
+    "city": "Cantanhede",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.36354065",
+    "longitude": "-8.60548973"
+  },
+  {
+    "city": "Coimbra",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.21815872",
+    "longitude": "-8.45368958"
+  },
+  {
+    "city": "Condeixa-A-Nova",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.10639191",
+    "longitude": "-8.49631977"
+  },
+  {
+    "city": "Figueira da Foz",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.15824890",
+    "longitude": "-8.80609035"
+  },
+  {
+    "city": "Gois",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.12535095",
+    "longitude": "-8.08339977"
+  },
+  {
+    "city": "Lousa",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.14086914",
+    "longitude": "-8.24050045"
+  },
+  {
+    "city": "Mira",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.44559097",
+    "longitude": "-8.73849010"
+  },
+  {
+    "city": "Miranda do Corvo",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.10910034",
+    "longitude": "-8.32678032"
+  },
+  {
+    "city": "Montemor-O-Velho",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.19385147",
+    "longitude": "-8.66695976"
+  },
+  {
+    "city": "Oliveira do Hospital",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.35522079",
+    "longitude": "-7.86480999"
+  },
+  {
+    "city": "Pampilhosa da Serra",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.07997131",
+    "longitude": "-7.90993977"
+  },
+  {
+    "city": "Penacova",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.29999161",
+    "longitude": "-8.24783993"
+  },
+  {
+    "city": "Penela",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.01224136",
+    "longitude": "-8.38193989"
+  },
+  {
+    "city": "Soure",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.06879044",
+    "longitude": "-8.62769985"
+  },
+  {
+    "city": "Tabua",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.35710144",
+    "longitude": "-8.02859974"
+  },
+  {
+    "city": "Vila Nova de Poiares",
+    "region": "Distrito de Coimbra",
+    "country": "portugal",
+    "latitude": "40.22129059",
+    "longitude": "-8.24104977"
+  },
+  {
+    "city": "Alandroal",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.62923813",
+    "longitude": "-7.36599016"
+  },
+  {
+    "city": "Arraiolos",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.76773834",
+    "longitude": "-7.95831013"
+  },
+  {
+    "city": "Borba",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.81412125",
+    "longitude": "-7.46720982"
+  },
+  {
+    "city": "Estremoz",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.84996033",
+    "longitude": "-7.60117006"
+  },
+  {
+    "city": "Evora",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.56650162",
+    "longitude": "-7.89459991"
+  },
+  {
+    "city": "Montemor-O-Novo",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.67102814",
+    "longitude": "-8.29955959"
+  },
+  {
+    "city": "Mora",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.92174149",
+    "longitude": "-8.09972000"
+  },
+  {
+    "city": "Mourao",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.29777908",
+    "longitude": "-7.22230005"
+  },
+  {
+    "city": "Portel",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.29384995",
+    "longitude": "-7.72762012"
+  },
+  {
+    "city": "Redondo",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.58010101",
+    "longitude": "-7.59659004"
+  },
+  {
+    "city": "Reguengos de Monsaraz",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.39799881",
+    "longitude": "-7.46700001"
+  },
+  {
+    "city": "Vendas Novas",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.63975143",
+    "longitude": "-8.54701996"
+  },
+  {
+    "city": "Viana do Alentejo",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.33644867",
+    "longitude": "-8.00010967"
+  },
+  {
+    "city": "Vila Vicosa",
+    "region": "Distrito de Evora",
+    "country": "portugal",
+    "latitude": "38.78789902",
+    "longitude": "-7.41851997"
+  },
+  {
+    "city": "Albufeira",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.08340836",
+    "longitude": "-8.26138973"
+  },
+  {
+    "city": "Alcoutim",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.42399979",
+    "longitude": "-7.65456009"
+  },
+  {
+    "city": "Aljezur",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.30855942",
+    "longitude": "-8.80486012"
+  },
+  {
+    "city": "Castro Marim",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.25865173",
+    "longitude": "-7.50731993"
+  },
+  {
+    "city": "Faro",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.05643082",
+    "longitude": "-7.92774010"
+  },
+  {
+    "city": "Lagoa",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.10504913",
+    "longitude": "-8.45973969"
+  },
+  {
+    "city": "Lagos",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.09566879",
+    "longitude": "-8.67660999"
+  },
+  {
+    "city": "Loule",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.14398956",
+    "longitude": "-8.02344990"
+  },
+  {
+    "city": "Monchique",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.31663895",
+    "longitude": "-8.58339977"
+  },
+  {
+    "city": "Olhao",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.04508972",
+    "longitude": "-7.81031990"
+  },
+  {
+    "city": "Portimao",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.17544174",
+    "longitude": "-8.58419991"
+  },
+  {
+    "city": "Sao Bras de Alportel",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.19564056",
+    "longitude": "-7.87546015"
+  },
+  {
+    "city": "Silves",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.20343018",
+    "longitude": "-8.33471966"
+  },
+  {
+    "city": "Tavira",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.13085175",
+    "longitude": "-7.65059996"
+  },
+  {
+    "city": "Vila do Bispo",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.08840942",
+    "longitude": "-8.90785027"
+  },
+  {
+    "city": "Vila Real de Santo Antonio",
+    "region": "Distrito de Faro",
+    "country": "portugal",
+    "latitude": "37.19232178",
+    "longitude": "-7.42538023"
+  },
+  {
+    "city": "Alcobaca",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.55440903",
+    "longitude": "-8.98832989"
+  },
+  {
+    "city": "Alvaiazere",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.81951141",
+    "longitude": "-8.38858032"
+  },
+  {
+    "city": "Ansiao",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.93423843",
+    "longitude": "-8.42045021"
+  },
+  {
+    "city": "Batalha",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.64783859",
+    "longitude": "-8.78108025"
+  },
+  {
+    "city": "Bombarral",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.28105927",
+    "longitude": "-9.17002010"
+  },
+  {
+    "city": "Caldas da Rainha",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.41585922",
+    "longitude": "-9.13376045"
+  },
+  {
+    "city": "Castanheira de Pera",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "40.03227997",
+    "longitude": "-8.18889046"
+  },
+  {
+    "city": "Figueiro Dos Vinhos",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.90616989",
+    "longitude": "-8.27752972"
+  },
+  {
+    "city": "Leiria",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.74644089",
+    "longitude": "-8.80622959"
+  },
+  {
+    "city": "Marinha Grande",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.77680969",
+    "longitude": "-8.95005035"
+  },
+  {
+    "city": "Nazare",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.59965134",
+    "longitude": "-9.07161999"
+  },
+  {
+    "city": "Obidos",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.35853958",
+    "longitude": "-9.17603016"
+  },
+  {
+    "city": "Pedrogao Grande",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.92681885",
+    "longitude": "-8.20092964"
+  },
+  {
+    "city": "Peniche",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.36166000",
+    "longitude": "-9.36868954"
+  },
+  {
+    "city": "Pombal",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.90734863",
+    "longitude": "-8.66948986"
+  },
+  {
+    "city": "Porto de Mos",
+    "region": "Distrito de Leiria",
+    "country": "portugal",
+    "latitude": "39.60546875",
+    "longitude": "-8.81892967"
+  },
+  {
+    "city": "Alenquer",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "39.06486893",
+    "longitude": "-9.00706959"
+  },
+  {
+    "city": "Amadora",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.75571060",
+    "longitude": "-9.22342014"
+  },
+  {
+    "city": "Arruda Dos Vinhos",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.97172165",
+    "longitude": "-9.08806992"
+  },
+  {
+    "city": "Azambuja",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "39.14559174",
+    "longitude": "-8.89044952"
+  },
+  {
+    "city": "Cadaval",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "39.24620819",
+    "longitude": "-9.06737995"
+  },
+  {
+    "city": "Cascais",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.74332809",
+    "longitude": "-9.46382046"
+  },
+  {
+    "city": "Lisboa",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.72634888",
+    "longitude": "-9.14842987"
+  },
+  {
+    "city": "Loures",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.83023834",
+    "longitude": "-9.13342953"
+  },
+  {
+    "city": "Lourinha",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "39.24745178",
+    "longitude": "-9.31194019"
+  },
+  {
+    "city": "Mafra",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.94107056",
+    "longitude": "-9.32635975"
+  },
+  {
+    "city": "Odivelas",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.79705048",
+    "longitude": "-9.19108009"
+  },
+  {
+    "city": "Oeiras",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.71371078",
+    "longitude": "-9.26832008"
+  },
+  {
+    "city": "Sintra",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.81438828",
+    "longitude": "-9.38370037"
+  },
+  {
+    "city": "Sobral de Monte Agraco",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.99584961",
+    "longitude": "-9.17409039"
+  },
+  {
+    "city": "Torres Vedras",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "39.10221863",
+    "longitude": "-9.25238037"
+  },
+  {
+    "city": "Vila Franca de Xira",
+    "region": "Distrito de Lisboa",
+    "country": "portugal",
+    "latitude": "38.92137146",
+    "longitude": "-9.03219986"
+  },
+  {
+    "city": "Alter do Chao",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.23097992",
+    "longitude": "-7.74429989"
+  },
+  {
+    "city": "Arronches",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.13822937",
+    "longitude": "-7.24962997"
+  },
+  {
+    "city": "Avis",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.06447983",
+    "longitude": "-7.89559984"
+  },
+  {
+    "city": "Campo Maior",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.02935028",
+    "longitude": "-7.06478977"
+  },
+  {
+    "city": "Castelo de Vide",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.43336105",
+    "longitude": "-7.51464987"
+  },
+  {
+    "city": "Crato",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.28657150",
+    "longitude": "-7.64408016"
+  },
+  {
+    "city": "Elvas",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "38.89868164",
+    "longitude": "-7.22425985"
+  },
+  {
+    "city": "Fronteira",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.07178879",
+    "longitude": "-7.61051989"
+  },
+  {
+    "city": "Gaviao",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.44461823",
+    "longitude": "-7.89531994"
+  },
+  {
+    "city": "Marvao",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.40515900",
+    "longitude": "-7.35854006"
+  },
+  {
+    "city": "Monforte",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.04959869",
+    "longitude": "-7.44428015"
+  },
+  {
+    "city": "Nisa",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.51828003",
+    "longitude": "-7.67496014"
+  },
+  {
+    "city": "Ponte de Sor",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.21440887",
+    "longitude": "-8.05420017"
+  },
+  {
+    "city": "Portalegre",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "39.29740143",
+    "longitude": "-7.41538000"
+  },
+  {
+    "city": "Sousel",
+    "region": "Distrito de Portalegre",
+    "country": "portugal",
+    "latitude": "38.96685028",
+    "longitude": "-7.71787977"
+  },
+  {
+    "city": "Abrantes",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.47164917",
+    "longitude": "-8.17533016"
+  },
+  {
+    "city": "Alcanena",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.46746063",
+    "longitude": "-8.68830967"
+  },
+  {
+    "city": "Almeirim",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.15781021",
+    "longitude": "-8.59004021"
+  },
+  {
+    "city": "Alpiarca",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.23881912",
+    "longitude": "-8.56336021"
+  },
+  {
+    "city": "Benavente",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "38.90800095",
+    "longitude": "-8.76898003"
+  },
+  {
+    "city": "Cartaxo",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.15377045",
+    "longitude": "-8.81373024"
+  },
+  {
+    "city": "Chamusca",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.29899979",
+    "longitude": "-8.39933014"
+  },
+  {
+    "city": "Constancia",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.45718002",
+    "longitude": "-8.30368042"
+  },
+  {
+    "city": "Coruche",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "38.95949936",
+    "longitude": "-8.52744961"
+  },
+  {
+    "city": "Entroncamento",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.46654892",
+    "longitude": "-8.47624016"
+  },
+  {
+    "city": "Ferreira do Zezere",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.72303009",
+    "longitude": "-8.31661034"
+  },
+  {
+    "city": "Golega",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.38682938",
+    "longitude": "-8.50590992"
+  },
+  {
+    "city": "Macao",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.59331131",
+    "longitude": "-7.99771976"
+  },
+  {
+    "city": "Ourem",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.66178894",
+    "longitude": "-8.57894993"
+  },
+  {
+    "city": "Rio Maior",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.34288025",
+    "longitude": "-8.93805981"
+  },
+  {
+    "city": "Salvaterra de Magos",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.04481888",
+    "longitude": "-8.68902969"
+  },
+  {
+    "city": "Santarem",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.32130814",
+    "longitude": "-8.71313000"
+  },
+  {
+    "city": "Sardoal",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.55643082",
+    "longitude": "-8.14323044"
+  },
+  {
+    "city": "Tomar",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.61040115",
+    "longitude": "-8.39346027"
+  },
+  {
+    "city": "Torres Novas",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.49160004",
+    "longitude": "-8.54796028"
+  },
+  {
+    "city": "Vila Nova da Barquinha",
+    "region": "Distrito de Santarem",
+    "country": "portugal",
+    "latitude": "39.47558975",
+    "longitude": "-8.40952969"
+  },
+  {
+    "city": "Alcacer do Sal",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.38819885",
+    "longitude": "-8.50010967"
+  },
+  {
+    "city": "Alcochete",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.73826981",
+    "longitude": "-8.97935963"
+  },
+  {
+    "city": "Almada",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.68399048",
+    "longitude": "-9.14955044"
+  },
+  {
+    "city": "Barreiro",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.63759995",
+    "longitude": "-9.05167961"
+  },
+  {
+    "city": "Grandola",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.18999100",
+    "longitude": "-8.61196995"
+  },
+  {
+    "city": "Moita",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.65853882",
+    "longitude": "-9.01039982"
+  },
+  {
+    "city": "Montijo",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.72990036",
+    "longitude": "-8.69363976"
+  },
+  {
+    "city": "Palmela",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.58422852",
+    "longitude": "-8.89995956"
+  },
+  {
+    "city": "Santiago do Cacem",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.02502060",
+    "longitude": "-8.67576981"
+  },
+  {
+    "city": "Seixal",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.61172867",
+    "longitude": "-9.10371017"
+  },
+  {
+    "city": "Sesimbra",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.49486160",
+    "longitude": "-9.12010956"
+  },
+  {
+    "city": "Setubal",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "38.51742172",
+    "longitude": "-8.90816975"
+  },
+  {
+    "city": "Sines",
+    "region": "Distrito de Setubal",
+    "country": "portugal",
+    "latitude": "37.95359039",
+    "longitude": "-8.87117004"
+  },
+  {
+    "city": "Arcos de Valdevez",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "41.87348175",
+    "longitude": "-8.42623997"
+  },
+  {
+    "city": "Caminha",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "41.84646988",
+    "longitude": "-8.80132961"
+  },
+  {
+    "city": "Melgaco",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "42.08066940",
+    "longitude": "-8.24843979"
+  },
+  {
+    "city": "Moncao",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "42.07257080",
+    "longitude": "-8.48488045"
+  },
+  {
+    "city": "Paredes de Coura",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "41.90995026",
+    "longitude": "-8.57034016"
+  },
+  {
+    "city": "Ponte da Barca",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "41.80669022",
+    "longitude": "-8.31013966"
+  },
+  {
+    "city": "Ponte de Lima",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "41.74681854",
+    "longitude": "-8.57637024"
+  },
+  {
+    "city": "Valenca",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "42.02820969",
+    "longitude": "-8.63387966"
+  },
+  {
+    "city": "Viana do Castelo",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "41.70898056",
+    "longitude": "-8.84673977"
+  },
+  {
+    "city": "Vila Nova de Cerveira",
+    "region": "Distrito de Viana do Castelo",
+    "country": "portugal",
+    "latitude": "41.93310165",
+    "longitude": "-8.70532990"
+  },
+  {
+    "city": "Alijo",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.28446960",
+    "longitude": "-7.48544979"
+  },
+  {
+    "city": "Boticas",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.67584991",
+    "longitude": "-7.71604013"
+  },
+  {
+    "city": "Chaves",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.73960876",
+    "longitude": "-7.45030022"
+  },
+  {
+    "city": "Mesao Frio",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.16189957",
+    "longitude": "-7.87283993"
+  },
+  {
+    "city": "Mondim de Basto",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.41347122",
+    "longitude": "-7.95479012"
+  },
+  {
+    "city": "Montalegre",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.83179855",
+    "longitude": "-7.78998995"
+  },
+  {
+    "city": "Murca",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.41825104",
+    "longitude": "-7.45121002"
+  },
+  {
+    "city": "Peso da Regua",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.19157028",
+    "longitude": "-7.83667994"
+  },
+  {
+    "city": "Ribeira de Pena",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.51020813",
+    "longitude": "-7.79673004"
+  },
+  {
+    "city": "Sabrosa",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.25318146",
+    "longitude": "-7.59019995"
+  },
+  {
+    "city": "Santa Marta de Penaguiao",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.22135925",
+    "longitude": "-7.79633999"
+  },
+  {
+    "city": "Valpacos",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.62081909",
+    "longitude": "-7.33607006"
+  },
+  {
+    "city": "Vila Pouca de Aguiar",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.52079010",
+    "longitude": "-7.63671017"
+  },
+  {
+    "city": "Vila Real",
+    "region": "Distrito de Vila Real",
+    "country": "portugal",
+    "latitude": "41.30020905",
+    "longitude": "-7.73985004"
+  },
+  {
+    "city": "Armamar",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "41.09717941",
+    "longitude": "-7.68553019"
+  },
+  {
+    "city": "Castro Daire",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.92279053",
+    "longitude": "-7.93877983"
+  },
+  {
+    "city": "Cinfaes",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "41.03985977",
+    "longitude": "-8.11217976"
+  },
+  {
+    "city": "Concelho de Carregal do Sal",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.45006943",
+    "longitude": "-7.99818993"
+  },
+  {
+    "city": "Concelho de Tondela",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.54051971",
+    "longitude": "-8.10039997"
+  },
+  {
+    "city": "Lamego",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "41.10229111",
+    "longitude": "-7.81024981"
+  },
+  {
+    "city": "Mangualde",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.59560013",
+    "longitude": "-7.71726990"
+  },
+  {
+    "city": "Moimenta da Beira",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.97134018",
+    "longitude": "-7.62959003"
+  },
+  {
+    "city": "Mortagua",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.39434052",
+    "longitude": "-8.25811005"
+  },
+  {
+    "city": "Nelas",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.52946091",
+    "longitude": "-7.88258982"
+  },
+  {
+    "city": "Oliveira de Frades",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.74639130",
+    "longitude": "-8.17520046"
+  },
+  {
+    "city": "Penalva do Castelo",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.66791153",
+    "longitude": "-7.66015005"
+  },
+  {
+    "city": "Penedono",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.99300003",
+    "longitude": "-7.39401007"
+  },
+  {
+    "city": "Resende",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "41.07688141",
+    "longitude": "-7.95123005"
+  },
+  {
+    "city": "Santa Comba Dao",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.40441895",
+    "longitude": "-8.11380005"
+  },
+  {
+    "city": "Sao Joao da Pesqueira",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "41.11079025",
+    "longitude": "-7.43381977"
+  },
+  {
+    "city": "Sao Pedro do Sul",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.80073166",
+    "longitude": "-8.09022999"
+  },
+  {
+    "city": "Satao",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.76245880",
+    "longitude": "-7.67600012"
+  },
+  {
+    "city": "Sernancelhe",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.92097092",
+    "longitude": "-7.51225996"
+  },
+  {
+    "city": "Tabuaco",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "41.09555054",
+    "longitude": "-7.56734991"
+  },
+  {
+    "city": "Tarouca",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "41.02650833",
+    "longitude": "-7.74997997"
+  },
+  {
+    "city": "Vila Nova de Paiva",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.86589813",
+    "longitude": "-7.76127005"
+  },
+  {
+    "city": "Viseu",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.67449951",
+    "longitude": "-7.91721010"
+  },
+  {
+    "city": "Vouzela",
+    "region": "Distrito de Viseu",
+    "country": "portugal",
+    "latitude": "40.68944168",
+    "longitude": "-8.11359978"
+  },
+  {
+    "city": "Amarante",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.27050018",
+    "longitude": "-8.06503010"
+  },
+  {
+    "city": "Baiao",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.16384125",
+    "longitude": "-8.03581047"
+  },
+  {
+    "city": "Felgueiras",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.34774017",
+    "longitude": "-8.20808029"
+  },
+  {
+    "city": "Gondomar",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.12015152",
+    "longitude": "-8.49594975"
+  },
+  {
+    "city": "Lousada",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.28355026",
+    "longitude": "-8.27437019"
+  },
+  {
+    "city": "Maia",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.24253845",
+    "longitude": "-8.60256958"
+  },
+  {
+    "city": "Marco de Canaveses",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.15544891",
+    "longitude": "-8.16954041"
+  },
+  {
+    "city": "Matosinhos",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.20766068",
+    "longitude": "-8.66742992"
+  },
+  {
+    "city": "Pacos de Ferreira",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.28963852",
+    "longitude": "-8.37584019"
+  },
+  {
+    "city": "Paredes",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.20500946",
+    "longitude": "-8.37506008"
+  },
+  {
+    "city": "Penafiel",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.20930862",
+    "longitude": "-8.26996040"
+  },
+  {
+    "city": "Porto",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.15555954",
+    "longitude": "-8.62672043"
+  },
+  {
+    "city": "Povoa de Varzim",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.39157867",
+    "longitude": "-8.75712967"
+  },
+  {
+    "city": "Santo Tirso",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.33013916",
+    "longitude": "-8.43826962"
+  },
+  {
+    "city": "Trofa",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.30646133",
+    "longitude": "-8.57639980"
+  },
+  {
+    "city": "Valongo",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.20796967",
+    "longitude": "-8.50086021"
+  },
+  {
+    "city": "Vila do Conde",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.33290863",
+    "longitude": "-8.68288040"
+  },
+  {
+    "city": "Vila Nova de Gaia",
+    "region": "Distrito do Porto",
+    "country": "portugal",
+    "latitude": "41.13695145",
+    "longitude": "-8.62701035"
+  },
+  {
+    "city": "Calheta",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.76367188",
+    "longitude": "-17.19765091"
+  },
+  {
+    "city": "Camara de Lobos",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.68722153",
+    "longitude": "-16.98567009"
+  },
+  {
+    "city": "Funchal",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.67617035",
+    "longitude": "-16.91721916"
+  },
+  {
+    "city": "Machico",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.74472046",
+    "longitude": "-16.70771980"
+  },
+  {
+    "city": "Ponta do Sol",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.70856094",
+    "longitude": "-17.10372925"
+  },
+  {
+    "city": "Porto Moniz",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.85958862",
+    "longitude": "-17.17575073"
+  },
+  {
+    "city": "Porto Santo",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "33.07144928",
+    "longitude": "-16.34304047"
+  },
+  {
+    "city": "Ribeira Brava",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.70589066",
+    "longitude": "-17.03577995"
+  },
+  {
+    "city": "Santa Cruz",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.67494965",
+    "longitude": "-16.83087921"
+  },
+  {
+    "city": "Santana",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.79658127",
+    "longitude": "-16.90443993"
+  },
+  {
+    "city": "Sao Vicente",
+    "region": "Madeira",
+    "country": "portugal",
+    "latitude": "32.81727982",
+    "longitude": "-16.98347092"
+  }
+]
